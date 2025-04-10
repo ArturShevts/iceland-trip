@@ -1,5 +1,5 @@
 import './style.css'
-import viteLogo from '/vite.svg'
+import viteLogo from '/us.svg'
 
 type Stop = {
     name: string;
@@ -14,29 +14,35 @@ type Day = {
     stops: Stop[];
 };
 
+const createStop = (stop: Stop): string => {
+    return `
+        <li class="stop-item">
+            <div class="stop-content">
+                <div class="stop-name">${stop.name}</div>
+                <div class="stop-links">
+                    ${stop.wikipedia
+                        ? `<a href="${stop.wikipedia}" target="_blank" class="wiki-link">📖 Wiki</a>`
+                        : `<span class="wiki-link-disabled">No Wiki</span>`}
+                   | <a href="${stop.googleMap}" target="_blank" class="map-link">📍 Map</a> 
+                </div>
+            </div>
+        </li>
+    `;
+};
+
 const createDay = (day: Day): HTMLLIElement => {
   const li = document.createElement("li");
   li.classList.add("list-item");
   li.innerHTML = `
-    <h2>${day.date} - Day ${day.dayNum}</h2>
+    <h2 class="day-title">${day.date} - Day ${day.dayNum}</h2>
     <a href="${day.map}" target="_blank" class="directions">
       📍 Directions for the day
     </a>
-    <ul class="list">
+    <ul class="stop-list">
       ${day.stops.map(stop => createStop(stop)).join("")}
     </ul>
   `;
   return li;
-};
-
-const createStop = (stop: Stop): string => {
-    return `
-        <li>
-            ${stop.name} 
-            <a href="${stop.googleMap}" target="_blank">📍 Map</a> | 
-            <a href="${stop.wikipedia || '#'}" target="_blank">${stop.wikipedia ? "📖 Wiki" : "No Wiki"}</a>
-        </li>
-    `;
 };
 
 const renderTrip = async (): Promise<void> => {
@@ -46,26 +52,28 @@ const renderTrip = async (): Promise<void> => {
             throw new Error(`Failed to fetch trip data: ${response.statusText}`);
         }
         const tripData: Day[] = await response.json();
+
+        // Set up header content
+        document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
+          <div>
+            <a href="" target="">
+              <img src="${viteLogo}" class="logo" alt="Iceland Map" />
+            </a>
+            <a href=""><h1 class="header">Iceland Trip</h1></a>
+          </div>
+        `;
+
+        // Create and append the trip days list
         const ul = document.createElement("ul");
+        ul.classList.add("list");
         tripData.forEach(day => {
             ul.appendChild(createDay(day));
         });
-        document.body.appendChild(ul);
+
+        document.querySelector('#app')!.appendChild(ul);
     } catch (error) {
         console.error(error);
     }
 };
 
 renderTrip();
-document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
-
-  <div>
-    <a href="" target="">
-      <img src="${viteLogo}" class="logo" alt="Vite logo" />
-    </a>
- 
-   <a href=""><h1>Iceland Trip</h1></a>
-  
-  </div>
-`
-
