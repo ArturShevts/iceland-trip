@@ -30,10 +30,6 @@ ul {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.7);
   position: relative;
   overflow: hidden;
-}
-
-.list-item::before {
-  content: "";
   background-image: repeating-linear-gradient(
           45deg,
           rgba(140, 120, 83, 0.05),
@@ -41,13 +37,9 @@ ul {
           transparent 10px,
           transparent 20px
   );
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  z-index: 0;
 }
+
+
 
 .day-title {
   font-family: 'Cinzel Decorative', serif;
