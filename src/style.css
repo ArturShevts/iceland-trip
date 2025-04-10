@@ -123,3 +123,16 @@ ul {
   border-bottom: 1px solid #8C7853;
   padding-bottom: 0.5em;
 }
+.icon {
+  height: 1.5em; /* Smaller size for better proportions */
+  width: auto;
+  vertical-align: middle;
+  display: inline-block;
+  position: relative;
+  margin: 0 4px;
+  background-color: transparent;
+}
+
+
+
+

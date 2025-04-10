@@ -1,5 +1,7 @@
 import './style.css'
 import viteLogo from '/us.svg'
+import mapIcon from '/map.svg'
+import  wikiIcon from '/wiki.svg'
 
 type Stop = {
     name: string;
@@ -21,9 +23,9 @@ const createStop = (stop: Stop): string => {
                 <div class="stop-name">${stop.name}</div>
                 <div class="stop-links">
                     ${stop.wikipedia
-                        ? `<a href="${stop.wikipedia}" target="_blank" class="wiki-link">📖 Wiki</a>`
+                        ? `<a href="${stop.wikipedia}" target="_blank" class="wiki-link"> <img src="${wikiIcon}" class="icon" alt="wiki Icon" /></a>`
                         : `<span class="wiki-link-disabled">No Wiki</span>`}
-                   | <a href="${stop.googleMap}" target="_blank" class="map-link">📍 Map</a> 
+                   | <a href="${stop.googleMap}" target="_blank" class="map-link"> <img src="${mapIcon}" class="icon" alt="map Icon" /></a> 
                 </div>
             </div>
         </li>

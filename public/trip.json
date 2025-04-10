@@ -71,11 +71,7 @@
         "wikipedia": null,
         "googleMap": "https://www.google.com/maps?q=Kvernufoss,+Iceland"
       },
-      {
-        "name": "Sólheimasandur Plane Wreck",
-        "wikipedia": "https://en.wikipedia.org/wiki/S%C3%B3lheimasandur",
-        "googleMap": "https://www.google.com/maps?q=S%C3%B3lheimasandur,+Iceland"
-      },
+
       {
         "name": "Vík Camping",
         "wikipedia": "https://en.wikipedia.org/wiki/V%C3%ADk_%C3%AD_M%C3%BDrdal",
@@ -293,38 +289,6 @@
           "name": "Vogar Camping",
           "wikipedia": null,
           "googleMap": "https://www.google.com/maps?q=Vogar+Camping,+Iceland"
-        }
-      ]
-    },
-    {
-      "dayNum": 9,
-      "date": "2025-07-12",
-      "map": "https://www.google.com/maps/dir/Lake+M%C3%BDvatn,+Iceland/Akureyri,+Iceland/Glaumb%C3%A6r,+Iceland/Hvitserkur,+Iceland/Hvammstangi,+Iceland",
-      "stops": [
-        {
-          "name": "Lake Mývatn",
-          "wikipedia": "https://en.wikipedia.org/wiki/M%C3%BDvatn",
-          "googleMap": "https://www.google.com/maps?q=Lake+M%C3%BDvatn,+Iceland"
-        },
-        {
-          "name": "Akureyri",
-          "wikipedia": "https://en.wikipedia.org/wiki/Akureyri",
-          "googleMap": "https://www.google.com/maps?q=Akureyri,+Iceland"
-        },
-        {
-          "name": "Glaumbær",
-          "wikipedia": "https://en.wikipedia.org/wiki/Glaumb%C3%A6r",
-          "googleMap": "https://www.google.com/maps?q=Glaumb%C3%A6r,+Iceland"
-        },
-        {
-          "name": "Hvitserkur",
-          "wikipedia": "https://en.wikipedia.org/wiki/Hv%C3%ADtserkur",
-          "googleMap": "https://www.google.com/maps?q=Hvitserkur,+Iceland"
-        },
-        {
-          "name": "Hvammstangi",
-          "wikipedia": null,
-          "googleMap": "https://www.google.com/maps?q=Hvammstangi,+Iceland"
         }
       ]
     },
