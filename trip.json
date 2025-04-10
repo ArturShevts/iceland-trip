@@ -1,0 +1,413 @@
+[
+  {
+    "dayNum": 1,
+    "date": "2025-07-04",
+    "map": "https://www.google.com/maps/dir/Reykjav%C3%ADk,+Iceland/%C3%9Eingvellir,+Iceland/%C3%96xar%C3%A1rfoss,+Iceland/Haukadalur,+Iceland/Gullfoss,+Iceland/Skj%C3%B3l+Campground,+Iceland",
+    "stops": [
+      {
+        "name": "Reykjavík",
+        "wikipedia": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk",
+        "googleMap": "https://www.google.com/maps?q=Reykjav%C3%ADk,+Iceland"
+      },
+      {
+        "name": "Þingvellir National Park",
+        "wikipedia": "https://en.wikipedia.org/wiki/%C3%9Eingvellir",
+        "googleMap": "https://www.google.com/maps?q=%C3%9Eingvellir,+Iceland"
+      },
+      {
+        "name": "Öxarárfoss",
+        "wikipedia": null,
+        "googleMap": "https://www.google.com/maps?q=%C3%96xar%C3%A1rfoss,+Iceland"
+      },
+      {
+        "name": "Haukadalur geothermal area (Geysir)",
+        "wikipedia": "https://en.wikipedia.org/wiki/Geysir",
+        "googleMap": "https://www.google.com/maps?q=Haukadalur,+Iceland"
+      },
+      {
+        "name": "Gullfoss",
+        "wikipedia": "https://en.wikipedia.org/wiki/Gullfoss",
+        "googleMap": "https://www.google.com/maps?q=Gullfoss,+Iceland"
+      },
+      {
+        "name": "Skjól Campground",
+        "wikipedia": null,
+        "googleMap": "https://www.google.com/maps?q=Skj%C3%B3l+Campground,+Iceland"
+      }
+    ]
+  },
+  {
+    "dayNum": 2,
+    "date": "2025-07-05",
+    "map": "https://www.google.com/maps/dir/Skj%C3%B3l+Campground,+Iceland/Ker%C3%AD%C3%B0,+Iceland/Seljalandsfoss,+Iceland/Glj%C3%BAfrab%C3%BAi,+Iceland/Sk%C3%B3gafoss,+Iceland/Kvernufoss,+Iceland/S%C3%B3lheimasandur,+Iceland/V%C3%ADk+Camping,+Iceland",
+    "stops": [
+      {
+        "name": "Skjól Campground",
+        "wikipedia": null,
+        "googleMap": "https://www.google.com/maps?q=Skj%C3%B3l+Campground,+Iceland"
+      },
+      {
+        "name": "Kerið Crater",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ker%C3%AD%C3%B0",
+        "googleMap": "https://www.google.com/maps?q=Ker%C3%AD%C3%B0,+Iceland"
+      },
+      {
+        "name": "Seljalandsfoss",
+        "wikipedia": "https://en.wikipedia.org/wiki/Seljalandsfoss",
+        "googleMap": "https://www.google.com/maps?q=Seljalandsfoss,+Iceland"
+      },
+      {
+        "name": "Gljúfrabúi",
+        "wikipedia": null,
+        "googleMap": "https://www.google.com/maps?q=Glj%C3%BAfrab%C3%BAi,+Iceland"
+      },
+      {
+        "name": "Skógafoss",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sk%C3%B3gafoss",
+        "googleMap": "https://www.google.com/maps?q=Sk%C3%B3gafoss,+Iceland"
+      },
+      {
+        "name": "Kvernufoss",
+        "wikipedia": null,
+        "googleMap": "https://www.google.com/maps?q=Kvernufoss,+Iceland"
+      },
+      {
+        "name": "Sólheimasandur Plane Wreck",
+        "wikipedia": "https://en.wikipedia.org/wiki/S%C3%B3lheimasandur",
+        "googleMap": "https://www.google.com/maps?q=S%C3%B3lheimasandur,+Iceland"
+      },
+      {
+        "name": "Vík Camping",
+        "wikipedia": "https://en.wikipedia.org/wiki/V%C3%ADk_%C3%AD_M%C3%BDrdal",
+        "googleMap": "https://www.google.com/maps?q=V%C3%ADk+Camping,+Iceland"
+      }
+    ]
+  },
+  {
+    "dayNum": 3,
+    "date": "2025-07-06",
+    "map": "https://www.google.com/maps/dir/V%C3%ADk+Camping,+Iceland/Reynisfjara,+Iceland/Dyrh%C3%B3laey,+Iceland/Fja%C3%B0r%C3%A1rglj%C3%BAfur,+Iceland/Eldhraun,+Iceland/Kirkjug%C3%B3lf,+Iceland/Skaftafell+Campsite,+Iceland",
+    "stops": [
+      {
+        "name": "Vík Camping",
+        "wikipedia": "https://en.wikipedia.org/wiki/V%C3%ADk_%C3%AD_M%C3%BDrdal",
+        "googleMap": "https://www.google.com/maps?q=V%C3%ADk+Camping,+Iceland"
+      },
+      {
+        "name": "Reynisfjara Black Sand Beach",
+        "wikipedia": "https://en.wikipedia.org/wiki/Reynisfjara",
+        "googleMap": "https://www.google.com/maps?q=Reynisfjara,+Iceland"
+      },
+      {
+        "name": "Dyrhólaey Viewpoint",
+        "wikipedia": "https://en.wikipedia.org/wiki/Dyrh%C3%B3laey",
+        "googleMap": "https://www.google.com/maps?q=Dyrh%C3%B3laey,+Iceland"
+      },
+      {
+        "name": "Fjaðrárgljúfur Canyon",
+        "wikipedia": "https://en.wikipedia.org/wiki/Fja%C3%B0r%C3%A1rglj%C3%BAfur",
+        "googleMap": "https://www.google.com/maps?q=Fja%C3%B0r%C3%A1rglj%C3%BAfur,+Iceland"
+      },
+      {
+        "name": "Eldhraun Lava Field",
+        "wikipedia": "https://en.wikipedia.org/wiki/Eldhraun",
+        "googleMap": "https://www.google.com/maps?q=Eldhraun,+Iceland"
+      },
+      {
+        "name": "Kirkjugólf",
+        "wikipedia": null,
+        "googleMap": "https://www.google.com/maps?q=Kirkjug%C3%B3lf,+Iceland"
+      },
+      {
+        "name": "Skaftafell Campsite",
+        "wikipedia": "https://en.wikipedia.org/wiki/Vatnaj%C3%B6kull_National_Park",
+        "googleMap": "https://www.google.com/maps?q=Skaftafell+Campsite,+Iceland"
+      }
+    ]
+  },
+    {
+      "dayNum": 4,
+      "date": "2025-07-07",
+      "map": "https://www.google.com/maps/dir/Skaftafell,+Iceland/Svartifoss,+Iceland/Fjalls%C3%A1rl%C3%B3n,+Iceland/J%C3%B6kuls%C3%A1rl%C3%B3n,+Iceland/Diamond+Beach,+Iceland/Haukafell+Campsite,+Iceland",
+      "stops": [
+        {
+          "name": "Skaftafell",
+          "wikipedia": "https://en.wikipedia.org/wiki/Vatnaj%C3%B6kull_National_Park",
+          "googleMap": "https://www.google.com/maps?q=Skaftafell,+Iceland"
+        },
+        {
+          "name": "Svartifoss",
+          "wikipedia": "https://en.wikipedia.org/wiki/Svartifoss",
+          "googleMap": "https://www.google.com/maps?q=Svartifoss,+Iceland"
+        },
+        {
+          "name": "Fjallsárlón Glacier Lagoon",
+          "wikipedia": null,
+          "googleMap": "https://www.google.com/maps?q=Fjalls%C3%A1rl%C3%B3n,+Iceland"
+        },
+        {
+          "name": "Jökulsárlón Glacier Lagoon",
+          "wikipedia": "https://en.wikipedia.org/wiki/J%C3%B6kuls%C3%A1rl%C3%B3n",
+          "googleMap": "https://www.google.com/maps?q=J%C3%B6kuls%C3%A1rl%C3%B3n,+Iceland"
+        },
+        {
+          "name": "Diamond Beach",
+          "wikipedia": null,
+          "googleMap": "https://www.google.com/maps?q=Diamond+Beach,+Iceland"
+        },
+        {
+          "name": "Haukafell Campsite",
+          "wikipedia": null,
+          "googleMap": "https://www.google.com/maps?q=Haukafell+Campsite,+Iceland"
+        }
+      ]
+    },
+    {
+      "dayNum": 5,
+      "date": "2025-07-08",
+      "map": "https://www.google.com/maps/dir/Haukafell+Campsite,+Iceland/H%C3%B6fn,+Iceland/Dj%C3%BApivogur,+Iceland/Petra's+Stone+Collection,+Iceland/Sey%C3%B0isfj%C3%B6r%C3%B0ur,+Iceland",
+      "stops": [
+        {
+          "name": "Haukafell Campsite",
+          "wikipedia": null,
+          "googleMap": "https://www.google.com/maps?q=Haukafell+Campsite,+Iceland"
+        },
+        {
+          "name": "Höfn",
+          "wikipedia": "https://en.wikipedia.org/wiki/H%C3%B6fn",
+          "googleMap": "https://www.google.com/maps?q=H%C3%B6fn,+Iceland"
+        },
+        {
+          "name": "Djúpivogur",
+          "wikipedia": "https://en.wikipedia.org/wiki/Dj%C3%BApivogur",
+          "googleMap": "https://www.google.com/maps?q=Dj%C3%BApivogur,+Iceland"
+        },
+        {
+          "name": "Petra’s Stone Collection",
+          "wikipedia": null,
+          "googleMap": "https://www.google.com/maps?q=Petra's+Stone+Collection,+Iceland"
+        },
+        {
+          "name": "Seyðisfjörður",
+          "wikipedia": "https://en.wikipedia.org/wiki/Sey%C3%B0isfj%C3%B6r%C3%B0ur",
+          "googleMap": "https://www.google.com/maps?q=Sey%C3%B0isfj%C3%B6r%C3%B0ur,+Iceland"
+        }
+      ]
+    },
+    {
+      "dayNum": 6,
+      "date": "2025-07-09",
+      "map": "https://www.google.com/maps/dir/Sey%C3%B0isfj%C3%B6r%C3%B0ur,+Iceland/Egilssta%C3%B0ir,+Iceland/Hengifoss,+Iceland/Dettifoss,+Iceland/Selfoss,+Iceland/%C3%81sbyrgi,+Iceland",
+      "stops": [
+        {
+          "name": "Seyðisfjörður",
+          "wikipedia": "https://en.wikipedia.org/wiki/Sey%C3%B0isfj%C3%B6r%C3%B0ur",
+          "googleMap": "https://www.google.com/maps?q=Sey%C3%B0isfj%C3%B6r%C3%B0ur,+Iceland"
+        },
+        {
+          "name": "Egilsstaðir",
+          "wikipedia": "https://en.wikipedia.org/wiki/Egilssta%C3%B0ir",
+          "googleMap": "https://www.google.com/maps?q=Egilssta%C3%B0ir,+Iceland"
+        },
+        {
+          "name": "Hengifoss",
+          "wikipedia": "https://en.wikipedia.org/wiki/Hengifoss",
+          "googleMap": "https://www.google.com/maps?q=Hengifoss,+Iceland"
+        },
+        {
+          "name": "Dettifoss",
+          "wikipedia": "https://en.wikipedia.org/wiki/Dettifoss",
+          "googleMap": "https://www.google.com/maps?q=Dettifoss,+Iceland"
+        },
+        {
+          "name": "Selfoss",
+          "wikipedia": null,
+          "googleMap": "https://www.google.com/maps?q=Selfoss,+Iceland"
+        },
+        {
+          "name": "Ásbyrgi",
+          "wikipedia": "https://en.wikipedia.org/wiki/%C3%81sbyrgi",
+          "googleMap": "https://www.google.com/maps?q=%C3%81sbyrgi,+Iceland"
+        }
+      ]
+    },
+
+    {
+      "dayNum": 7,
+      "date": "2025-07-10",
+      "map": "https://www.google.com/maps/dir/%C3%81sbyrgi,+Iceland/H%C3%BAsav%C3%ADk,+Iceland/Go%C3%B0afoss,+Iceland/Vogar+Camping,+Iceland",
+      "stops": [
+        {
+          "name": "Ásbyrgi",
+          "wikipedia": "https://en.wikipedia.org/wiki/%C3%81sbyrgi",
+          "googleMap": "https://www.google.com/maps?q=%C3%81sbyrgi,+Iceland"
+        },
+        {
+          "name": "Húsavík",
+          "wikipedia": "https://en.wikipedia.org/wiki/H%C3%BAsav%C3%ADk",
+          "googleMap": "https://www.google.com/maps?q=H%C3%BAsav%C3%ADk,+Iceland"
+        },
+        {
+          "name": "Goðafoss",
+          "wikipedia": "https://en.wikipedia.org/wiki/Go%C3%B0afoss",
+          "googleMap": "https://www.google.com/maps?q=Go%C3%B0afoss,+Iceland"
+        },
+        {
+          "name": "Vogar Camping",
+          "wikipedia": null,
+          "googleMap": "https://www.google.com/maps?q=Vogar+Camping,+Iceland"
+        }
+      ]
+    },
+    {
+      "dayNum": 8,
+      "date": "2025-07-11",
+      "map": "https://www.google.com/maps/dir/Vogar+Camping,+Iceland/Hverir,+Iceland/Krafla,+Iceland/M%C3%BDvatn+Nature+Baths,+Iceland/Sk%C3%BAtustaðag%C3%ADgar,+Iceland/Vogar+Camping,+Iceland",
+      "stops": [
+        {
+          "name": "Vogar Camping",
+          "wikipedia": null,
+          "googleMap": "https://www.google.com/maps?q=Vogar+Camping,+Iceland"
+        },
+        {
+          "name": "Hverir",
+          "wikipedia": "https://en.wikipedia.org/wiki/N%C3%A1mafjall",
+          "googleMap": "https://www.google.com/maps?q=Hverir,+Iceland"
+        },
+        {
+          "name": "Krafla",
+          "wikipedia": "https://en.wikipedia.org/wiki/Krafla",
+          "googleMap": "https://www.google.com/maps?q=Krafla,+Iceland"
+        },
+        {
+          "name": "Mývatn Nature Baths",
+          "wikipedia": null,
+          "googleMap": "https://www.google.com/maps?q=M%C3%BDvatn+Nature+Baths,+Iceland"
+        },
+        {
+          "name": "Skútustaðagígar",
+          "wikipedia": null,
+          "googleMap": "https://www.google.com/maps?q=Sk%C3%BAtustaðag%C3%ADgar,+Iceland"
+        },
+        {
+          "name": "Vogar Camping",
+          "wikipedia": null,
+          "googleMap": "https://www.google.com/maps?q=Vogar+Camping,+Iceland"
+        }
+      ]
+    },
+    {
+      "dayNum": 9,
+      "date": "2025-07-12",
+      "map": "https://www.google.com/maps/dir/Lake+M%C3%BDvatn,+Iceland/Akureyri,+Iceland/Glaumb%C3%A6r,+Iceland/Hvitserkur,+Iceland/Hvammstangi,+Iceland",
+      "stops": [
+        {
+          "name": "Lake Mývatn",
+          "wikipedia": "https://en.wikipedia.org/wiki/M%C3%BDvatn",
+          "googleMap": "https://www.google.com/maps?q=Lake+M%C3%BDvatn,+Iceland"
+        },
+        {
+          "name": "Akureyri",
+          "wikipedia": "https://en.wikipedia.org/wiki/Akureyri",
+          "googleMap": "https://www.google.com/maps?q=Akureyri,+Iceland"
+        },
+        {
+          "name": "Glaumbær",
+          "wikipedia": "https://en.wikipedia.org/wiki/Glaumb%C3%A6r",
+          "googleMap": "https://www.google.com/maps?q=Glaumb%C3%A6r,+Iceland"
+        },
+        {
+          "name": "Hvitserkur",
+          "wikipedia": "https://en.wikipedia.org/wiki/Hv%C3%ADtserkur",
+          "googleMap": "https://www.google.com/maps?q=Hvitserkur,+Iceland"
+        },
+        {
+          "name": "Hvammstangi",
+          "wikipedia": null,
+          "googleMap": "https://www.google.com/maps?q=Hvammstangi,+Iceland"
+        }
+      ]
+    },
+
+   {
+     "dayNum": 9,
+     "date": "2025-07-12",
+     "map": "https://www.google.com/maps/dir/Lake+M%C3%BDvatn,+Iceland/Akureyri,+Iceland/Glaumb%C3%A6r,+Iceland/Hvitserkur,+Iceland/Hvammstangi,+Iceland",
+     "stops": [
+       {
+         "name": "Lake Mývatn",
+         "wikipedia": "https://en.wikipedia.org/wiki/M%C3%BDvatn",
+         "googleMap": "https://www.google.com/maps?q=Lake+M%C3%BDvatn,+Iceland"
+       },
+       {
+         "name": "Akureyri",
+         "wikipedia": "https://en.wikipedia.org/wiki/Akureyri",
+         "googleMap": "https://www.google.com/maps?q=Akureyri,+Iceland"
+       },
+       {
+         "name": "Glaumbær",
+         "wikipedia": "https://en.wikipedia.org/wiki/Glaumb%C3%A6r",
+         "googleMap": "https://www.google.com/maps?q=Glaumb%C3%A6r,+Iceland"
+       },
+       {
+         "name": "Hvitserkur",
+         "wikipedia": "https://en.wikipedia.org/wiki/Hv%C3%ADtserkur",
+         "googleMap": "https://www.google.com/maps?q=Hvitserkur,+Iceland"
+       },
+       {
+         "name": "Hvammstangi",
+         "wikipedia": null,
+         "googleMap": "https://www.google.com/maps?q=Hvammstangi,+Iceland"
+       }
+     ]
+   },
+   {
+     "dayNum": 10,
+     "date": "2025-07-13",
+     "map": "https://www.google.com/maps/dir/Hvammstangi,+Iceland/Koluglj%C3%BAfur,+Iceland/Hvalfj%C3%B6r%C3%B0ur,+Iceland/Reykjadalur,+Iceland/Mosskogar+Campsite,+Iceland",
+     "stops": [
+       {
+         "name": "Hvammstangi",
+         "wikipedia": null,
+         "googleMap": "https://www.google.com/maps?q=Hvammstangi,+Iceland"
+       },
+       {
+         "name": "Kolugljúfur Canyon",
+         "wikipedia": null,
+         "googleMap": "https://www.google.com/maps?q=Koluglj%C3%BAfur,+Iceland"
+       },
+       {
+         "name": "Hvalfjörður",
+         "wikipedia": null,
+         "googleMap": "https://www.google.com/maps?q=Hvalfj%C3%B6r%C3%B0ur,+Iceland"
+       },
+       {
+         "name": "Reykjadalur Hot Spring River",
+         "wikipedia": null,
+         "googleMap": "https://www.google.com/maps?q=Reykjadalur,+Iceland"
+       },
+       {
+         "name": "Mosskogar Campsite",
+         "wikipedia": null,
+         "googleMap": "https://www.google.com/maps?q=Mosskogar+Campsite,+Iceland"
+       }
+     ]
+   },
+   {
+     "dayNum": 11,
+     "date": "2025-07-14",
+     "map": "https://www.google.com/maps/dir/Mosskogar+Campsite,+Iceland/Reykjav%C3%ADk,+Iceland",
+     "stops": [
+       {
+         "name": "Mosskogar Campsite",
+         "wikipedia": null,
+         "googleMap": "https://www.google.com/maps?q=Mosskogar+Campsite,+Iceland"
+       },
+       {
+         "name": "Reykjavík",
+         "wikipedia": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk",
+         "googleMap": "https://www.google.com/maps?q=Reykjav%C3%ADk,+Iceland"
+       }
+     ]
+   }
+ ]
