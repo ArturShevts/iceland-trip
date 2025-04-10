@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Cinzel:wght@400;700&family=Cormorant+Garamond:wght@400;600;700&display=swap');
 
 /* Base styles */
-.body {
+body {
   font-family: 'Cormorant Garamond', serif;
   background-color: #1D1811; /* Dark brown */
   color: #D9C7A0; /* Light beige/gold text */
