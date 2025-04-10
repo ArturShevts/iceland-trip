@@ -1,5 +1,3 @@
-import tripData from "./trip.json";
-
 const createDay = (day) => {
     const li = document.createElement("li");
     li.innerHTML = `
@@ -22,12 +20,21 @@ const createStop = (stop) => {
     `;
 };
 
-const renderTrip = () => {
-    const ul = document.createElement("ul");
-    tripData.forEach(day => {
-        ul.appendChild(createDay(day));
-    });
-    document.body.appendChild(ul);
+const renderTrip = async () => {
+    try {
+        const response = await fetch('./trip.json');
+        if (!response.ok) {
+            throw new Error(`Failed to fetch trip data: ${response.statusText}`);
+        }
+        const tripData = await response.json();
+        const ul = document.createElement("ul");
+        tripData.forEach(day => {
+            ul.appendChild(createDay(day));
+        });
+        document.body.appendChild(ul);
+    } catch (error) {
+        console.error(error);
+    }
 };
 
 renderTrip();
